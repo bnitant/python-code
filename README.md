@@ -1,2 +1,2 @@
 # python-code
-py code
+All python codes and practicals
