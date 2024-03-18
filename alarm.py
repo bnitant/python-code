@@ -1,6 +1,6 @@
+#Only for pc users
 import datetime
 from pygame import mixer
-import os
 import time
 
 t_date=datetime.datetime.now().strftime('%H:%M:%S')
